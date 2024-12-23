@@ -1,0 +1,11 @@
+{
+    "firstname" : "Juliana",
+    "lastname" : "Yamada",
+    "totalprice" : 550,
+    "depositpaid" : true,
+    "bookingdates" : {
+        "checkin" : "2024-12-01",
+        "checkout" : "2024-12-20"
+    },
+    "additionalneeds" : "café da manhã"
+}
